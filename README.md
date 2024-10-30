@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/black_mark9" target="blank"><img src="https://img.shields.io/twitter/follow/black_mark9?logo=twitter&style=for-the-badge" alt="black_mark9" /></a> </p>
 
-- 🌱 I’m currently learning **Node js, React Native, Django, flask, Data science and Machine Learning**
+- 🌱 I’m currently learning **Node js, Django, flask and Machine Learning**
 
-- 💬 Ask me about **react, vue, Python and PHP**
+- 💬 Ask me about **react, Python and PHP**
 
 - 📫 How to reach me **kiplangatoriel@gmail.com**
 
