@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node js, Django, flask and Machine Learning**
 
-- 💬 Ask me about **react, Python and PHP**
+- 💬 Ask me about **React, Python and PHP**
 
 - 📫 How to reach me **kiplangatoriel@gmail.com**
 
