@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-oriel&label=Profile%20views&color=0e75b6&style=flat" alt="dev-oriel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-oriel" alt="dev-oriel" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/black_mark9" target="blank"><img src="https://img.shields.io/twitter/follow/black_mark9?logo=twitter&style=for-the-badge" alt="black_mark9" /></a> </p>
 
 - 🌱 I’m currently learning **NNode js, Django, flask and Machine Learning**
